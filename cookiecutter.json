@@ -4,5 +4,5 @@
     "template": [
       "implant"
     ],
-    "_templates_repo":"xx"
+    "_templates_repo":"https://github.com/wilbyang/cookiecutter-cpp-started"
   }
